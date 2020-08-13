@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProductListing</string>
+    <string name="product_name">Product Name</string>
+    <string name="available">Available</string>
+    <string name="delievery_time">Delievery Time :</string>
+    <string name="price">Price :</string>
+    <string name="sort">New</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+</resources>
